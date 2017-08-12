@@ -1,4 +1,7 @@
 # scanner_airpaint
 Creating my own Scanner and performing air painting using Computer Vision
-![Scanned Output](scan.png?raw=true "Scanned Image"
-![Air paint](Object Tracking 6_13_2017 6_36_50 PM.mp4?raw=true "Air Painting"
+![scan](https://user-images.githubusercontent.com/26377913/29237883-6e3af90a-7f45-11e7-8ea2-1703a81347b1.png)
+Scanned Image
+
+
+
